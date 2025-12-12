@@ -1,5 +1,10 @@
 {
-  "latest_version": "1.0.5",
-  "update_url": "https://pan.baidu.com/s/xxxxx",
-  "change_log": "首次发布"
+  "version": "1.0.5",
+  "update_log": "1. 修复了检测更新时的网络连接问题\n2. 优化了联系作者弹窗的UI设计\n3. 新增了微信联系方式\n4. 删除了冗余的GitHub联系方式\n5. 完善了更新检查的用户反馈\n6. 优化了云控制功能的稳定性",
+  "update_size": "15.2MB",
+  "download_url": "https://github.com/lzy23513044/-/releases/latest",
+  "netdiskUrl": "https://pan.baidu.com/s/your-netdisk-link",
+  "force_update": false,
+  "release_date": "2025-12-13",
+  "min_version": "1.0.0"
 }
